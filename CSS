@@ -1,0 +1,30 @@
+<div class="CSSgal">
+
+  <!-- Don't wrap targets in parent -->
+  <s id="s1"></s> 
+  <s id="s2"></s>
+  <s id="s3"></s>
+  <s id="s4"></s>
+
+  <div class="slider">
+    <img src="https://1079638729.rsc.cdn77.org/androidgame_img/heroes_of_destiny/real/1_heroes_of_destiny.jpg" />
+		<img src="http://www.androidshock.com/wp-content/uploads/2013/03/Heroes-of-Destiny-8.jpg" />
+		<img src="http://imag.malavida.com/mvimgbig/download-fs/heroes-of-destiny-12440-5.jpg" />
+		<img src="URL Foto 4" />
+  </div>
+  
+  <div class="prevNext">
+    <div><a href="#s4"></a><a href="#s2"></a></div>
+    <div><a href="#s1"></a><a href="#s3"></a></div>
+    <div><a href="#s2"></a><a href="#s4"></a></div>
+    <div><a href="#s3"></a><a href="#s1"></a></div>
+  </div>
+
+  <div class="bullets">
+    <a href="#s1">1</a>
+    <a href="#s2">2</a>
+    <a href="#s3">3</a>
+    <a href="#s4">4</a>
+  </div>
+
+</div>
